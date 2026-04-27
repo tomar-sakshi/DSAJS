@@ -3,7 +3,7 @@
 // Sol: let arr = [10, 7, 8, 0, 20, 34, 6, 7];
 
 // function searchElements (arr, x){
-//     for(let i = 0; arr.length; i++){
+//     for(let i = 0; i < arr.length; i++){
 //         if(arr[i]== x){
 //             return i;
 //         }
@@ -30,7 +30,6 @@
 // let res = countNegatives(arr);
 // console.log(res);
 
-
 // Q3: Write a function that returns the largest number in an array.
 
 // let arr = [2, 5, 45, 5, 77, 9];
@@ -49,7 +48,6 @@
 // console.log(res);
 
 // Q4: Write a function that returns the smallest number in an array.
-
 
 // let arr = [2, 5, 6, 1, 0, -4, -1, -6];
 //   function findSmallest(arr){
